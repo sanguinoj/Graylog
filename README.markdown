@@ -6,4 +6,4 @@ This is Graylog2.
 
 Please follow the release announcements and documentation links on http://graylog2.org/download for details.
 
-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
+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
